@@ -39,33 +39,33 @@ Here are some tools you will find useful in checking your work —
 
 ### File structure
 build-a-portfolio-site
- |
- +-- css
- |   +-- animate.css
- |   +-- bootstrap.css<
- |   +-- bootstrap.min.css
- |   +-- bootstrap-theme.css
- |   +-- bootstrap-theme.min.css
- |   +-- style.css
- +-- fonts
- |   +-- glyphicons-halflings-regular.eot
- |   +-- glyphicons-halflings-regular.svg
- |   +-- glyphicons-halflings-regular.ttf
- |   +-- glyphicons-halflings-regular.woff
- |   +-- glyphicons-halflings-regular.woff2
- +-- img
- |   +-- arcade-game.png
- |   +-- logo.png
- |   +-- main-photo.png
- |   +-- vietnam-map.png
- |   +-- web-developer.png
- +-- js
- |   +-- bootstrap.js
- |   +-- bootstrap.min.js
- |   +-- jquery-3.2.1.js
- |   +-- npm.js
- +-- index.html
- +-- README.md
+ |  
+ +-- css  
+ |   +-- animate.css  
+ |   +-- bootstrap.css  
+ |   +-- bootstrap.min.css  
+ |   +-- bootstrap-theme.css  
+ |   +-- bootstrap-theme.min.css  
+ |   +-- style.css  
+ +-- fonts  
+ |   +-- glyphicons-halflings-regular.eot  
+ |   +-- glyphicons-halflings-regular.svg  
+ |   +-- glyphicons-halflings-regular.ttf  
+ |   +-- glyphicons-halflings-regular.woff  
+ |   +-- glyphicons-halflings-regular.woff2  
+ +-- img  
+ |   +-- arcade-game.png  
+ |   +-- logo.png  
+ |   +-- main-photo.png  
+ |   +-- vietnam-map.png  
+ |   +-- web-developer.png  
+ +-- js  
+ |   +-- bootstrap.js  
+ |   +-- bootstrap.min.js  
+ |   +-- jquery-3.2.1.js  
+ |   +-- npm.js  
+ +-- index.html  
+ +-- README.md  
 
 **Free Software, Oh Yeah!**
 - [Google Chrome](https://www.google.com/chrome/) : a best browser in the world
